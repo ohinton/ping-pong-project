@@ -2,11 +2,11 @@ var pingpongList = function(input) {
   var numbersArray = [];
   var finalArray = [];
 
-  //creating a number array//
+  //creates a number array//
   for(var i = 1; i <= input; i++){
     numbersArray.push(i);
   }
-  //replacing numbers with words in array//
+  //replaces numbers with words in array//
   numbersArray.forEach(function(number){
     if (number % 15 === 0){
       finalArray.push("pingpong");
