@@ -1,5 +1,5 @@
 //start of back-end logic//
-var pingpongList = function(input) {
+var pingPongList = function(input) {
   var numbersArray = [];
   var finalArray = [];
 
@@ -34,7 +34,7 @@ $(document).ready(function(){
     $("#final-numbers").empty();
     //gathers the user input and runs that input through the function//
     var userInput = $("#number").val();
-    var results = pingpongList(userInput);
+    var results = pingPongList(userInput);
 
     //creates a list of the results on the webpage//
     results.forEach(function(number){
