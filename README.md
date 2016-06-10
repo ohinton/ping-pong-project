@@ -21,7 +21,7 @@ _This web application takes a number from a user and returns a range of numbers 
 * _Clone this repository_
 * _Open a HTML file_
 * _Open web browser of choice_
-* _GitHub Pages link:_
+* _GitHub Pages link: http://ohinton.github.io/ping-pong-project/_
 
 ## Known Bugs
 
