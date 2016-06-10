@@ -23,8 +23,9 @@ _This web application takes a number from a user and returns a range of numbers 
 * _Open web browser of choice_
 * _GitHub Pages link: http://ohinton.github.io/ping-pong-project/_
 
-## Known Bugs
+## Notes
 
+_I added notes in my JavaScript code to show my understanding and thought process._
 
 
 ## Support and Contact Details
