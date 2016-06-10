@@ -1,3 +1,13 @@
-.container {
+h1 {
   text-align: center;
+}
+
+img {
+  width: 75px;
+  height: auto;
+}
+
+#final-numbers {
+  font-weight: bold;
+  font-size: 15px;
 }
